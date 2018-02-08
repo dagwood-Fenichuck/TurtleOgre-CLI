@@ -2,6 +2,7 @@
 Command Line Interface for crypto exchange TradeOgre. (BTC-TRTL)
 
 Might crash if auth file is incorrect (when runnin private api calls), just delete the auth file and restart the exe.
+
 Might also crash if TradeOgre is 100% down and unreachable.
 
 Report any issues / errors / crashes either here or on the TurtleCoin Discord. (ShAdY on Discord)
